@@ -8,7 +8,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: 	SlideIn Form
- * Plugin URI: 		https://wordpress.org/plugins/slide-in-form/
+ * Plugin URI: 		https://github.com/roshni005/slide-in-contact-form-wordpress-plugin
  * Description: 	SlideIn Form is a simple and attractive wordpress plugin used to show enquiry box on fixed position like bottom, left or right side with CSS3 effects for visitors.
  * Version: 1.0
  * Author: 			Roshni Mansuri
