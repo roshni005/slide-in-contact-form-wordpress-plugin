@@ -13,7 +13,7 @@
  * Version: 1.0
  * Author: 			Roshni Mansuri
  * Author URI: 		https://www.roshnimansuri.info/
- * Text Domain: 	slide-in-form
+ * Text Domain: 	http://wordpress-assessment.roshnimansuri.info/
  */
 
 // If this file is called directly, abort.
