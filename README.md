@@ -15,4 +15,4 @@ You can check details of this plugin in advanced-cf7-db/README.md file.
 # Font Awesome Plugin 
 You can check details of this plugin in font-awesome/README.md file. 
 
-## Checkout installation guide for more details ** installation_requirements_guide.docx **  ##
+## Checkout installation guide for more details installation_requirements_guide.docx   ##
