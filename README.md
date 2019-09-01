@@ -31,4 +31,4 @@ You can check details of this plugin in advanced-cf7-db/README.md file.
 You can check details of this plugin in font-awesome/README.md file. 
 
 # NOTE
-Checkout installation guide for more details installation_requirements_guide
+Checkout installation guide for more details Installation-Requirements-Guide
